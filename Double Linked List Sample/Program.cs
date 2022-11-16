@@ -15,6 +15,10 @@ namespace Double_Linked_List_Sample
             public Node next;
             public Node prev;
         }
+        class DoubleLinkedList
+        {
+            Node START;
+        }
         static void Main(string[] args)
         {
         }
